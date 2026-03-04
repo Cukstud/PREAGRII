@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.idea/
+
+Data-raw/
+models/
+
+*.h5
+*.pkl
+*.pt
+*.zip
+*.jpg
+*.png
